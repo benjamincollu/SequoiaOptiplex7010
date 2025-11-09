@@ -12,6 +12,7 @@ pretty much everything except unmapped usb ports -> but those will work after ma
 
 ### does not work:
 i don't use a dgpu or a wlan/bluetooth adapter so I didn't add kexts/drivers for those but that can be resolved easily
+
 drm because unsupported igpus are broken under new macos
 
 ### notes:
