@@ -1074,7 +1074,7 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>D25437300J9G36DJA</string>
+                <string>XXXXX</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -1086,11 +1086,11 @@
                 <key>SystemMemoryStatus</key>
                 <string>Auto</string>
                 <key>SystemProductName</key>
-                <string>iMac14,4</string>
+                <string>XXXX</string>
                 <key>SystemSerialNumber</key>
-                <string>D25NDNZ3FY0T</string>
+                <string>XXXXX</string>
                 <key>SystemUUID</key>
-                <string>4868C6EE-330F-4E01-9B08-64140DE5594F</string>
+                <string>XXXXXXXX</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
