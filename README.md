@@ -24,6 +24,8 @@ does not use opencanopy
 
 graphics acceleration requires OCLP patch but that's just a single click install since I disabled SIP and AMFI and set csr-active-config to 03080000
 
+** YOU NEED TO ENTER YOUR OWN SMBIOS INFO **
+
 ### differences between bigsur and sequoia:
 no longer need boot-arg to disable AMFI -> replaced with a kext (AMFIPass.kext)
 
